@@ -1,0 +1,24 @@
+.back{
+    background-color: blueviolet;
+}
+.img{
+margin-left: 48ex;
+}
+.w{
+    text-align: center;
+    color: blue;
+    font-size: x-large;
+}
+.but{
+    background-color: aqua;
+    margin-left:75ex ;
+    height: 5em;
+    width: 5em;
+}
+.but2{
+    background-color: aqua;
+    margin-left: 11em;
+    height: 5em;
+    width: 5em;
+}
+
